@@ -1,3 +1,3 @@
-Currently cheatsheets available for:
+Cheatsheet available for:
 1. Emmet
 2. Markdown
